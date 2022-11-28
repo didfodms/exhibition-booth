@@ -6,13 +6,10 @@
 
 ## 부스 진행
 + [Tinkercad](https://www.tinkercad.com/)에서 삼각형, 사각형, 원, 육각형 벌집 3D 모델 제작
-<br>
 
 ![](https://velog.velcdn.com/images/reyang/post/106bd58f-e5a5-4a00-8348-0f1f84c1226a/image.png)
 
 + [Aframe](https://aframe.io/)과 [AR.js](https://ar-js-org.github.io/AR.js-Docs/)로 마커 기반 AR 환경 구축
-
-<br>
 
 + 약 2~3분 동안 자유로운 AR 벌집 탐구 시간 제공
 
